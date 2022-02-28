@@ -1,0 +1,9 @@
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knight\Knight\bin\Debug\Knight.exe.config
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knight\Knight\bin\Debug\Knight.exe
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knight\Knight\bin\Debug\Knight.pdb
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knight\Knight\obj\Debug\Knight.csprojResolveAssemblyReference.cache
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knight\Knight\obj\Debug\Knight.Form1.resources
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knight\Knight\obj\Debug\Knight.Properties.Resources.resources
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knight\Knight\obj\Debug\Knight.csproj.GenerateResource.Cache
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knight\Knight\obj\Debug\Knight.exe
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knight\Knight\obj\Debug\Knight.pdb
